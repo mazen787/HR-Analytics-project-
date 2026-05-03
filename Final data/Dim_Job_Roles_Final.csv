@@ -1,0 +1,78 @@
+role_id,job_title,department,job_level,base_salary_range,min_salary,max_salary
+1,Junior IT Support,IT,Junior,8000-15000,8000.0,15000.0
+2,Jr. Data Analyst,IT,Junior,8000-15000,8000.0,15000.0
+3,Systems Analyst,IT,Mid,15000-25000,15000.0,25000.0
+4,Software Engineer,IT,Mid,15000-25000,15000.0,25000.0
+5,Senior Data Engineer,IT,Senior,25000-60000,25000.0,60000.0
+6,Senior Software Engineer,IT,Senior,25000-60000,25000.0,60000.0
+7,Infrastructure Specialist,IT,Senior,25000-60000,25000.0,60000.0
+8,IT Team Lead,IT,Lead,60000-100000,60000.0,100000.0
+9,Engineering Manager,IT,Lead,60000-100000,60000.0,100000.0
+10,Director of IT,IT,Director,100000-250000,100000.0,250000.0
+11,Head of Engineering,IT,Director,100000-250000,100000.0,250000.0
+12,Sales Coordinator,Sales,Junior,8000-15000,8000.0,15000.0
+13,Jr. Sales Rep,Sales,Junior,8000-15000,8000.0,15000.0
+14,Account Executive,Sales,Mid,15000-25000,15000.0,25000.0
+15,Sales Specialist,Sales,Mid,15000-25000,15000.0,25000.0
+16,Senior Account Manager,Sales,Senior,25000-60000,25000.0,60000.0
+17,Business Development Lead,Sales,Senior,25000-60000,25000.0,60000.0
+18,Sr. Sales Consultant,Sales,Senior,25000-60000,25000.0,60000.0
+19,Sales Team Lead,Sales,Lead,60000-100000,60000.0,100000.0
+20,Regional Sales Manager,Sales,Lead,60000-100000,60000.0,100000.0
+21,Director of Sales,Sales,Director,100000-250000,100000.0,250000.0
+22,Head of Revenue,Sales,Director,100000-250000,100000.0,250000.0
+23,HR Coordinator,HR,Junior,8000-15000,8000.0,15000.0
+24,Jr. Recruiter,HR,Junior,8000-15000,8000.0,15000.0
+25,HR Specialist,HR,Mid,15000-25000,15000.0,25000.0
+26,Talent Acquisition Specialist,HR,Mid,15000-25000,15000.0,25000.0
+27,Senior HRBP,HR,Senior,25000-60000,25000.0,60000.0
+28,Senior Recruiter,HR,Senior,25000-60000,25000.0,60000.0
+29,Sr. HR Consultant,HR,Senior,25000-60000,25000.0,60000.0
+30,HR Team Lead,HR,Lead,60000-100000,60000.0,100000.0
+31,People Operations Manager,HR,Lead,60000-100000,60000.0,100000.0
+32,HR Director,HR,Director,100000-250000,100000.0,250000.0
+33,Head of People,HR,Director,100000-250000,100000.0,250000.0
+34,Accounts Assistant,Finance,Junior,8000-15000,8000.0,15000.0
+35,Jr. Financial Analyst,Finance,Junior,8000-15000,8000.0,15000.0
+36,Financial Analyst,Finance,Mid,15000-25000,15000.0,25000.0
+37,Accountant,Finance,Mid,15000-25000,15000.0,25000.0
+38,Senior Accountant,Finance,Senior,25000-60000,25000.0,60000.0
+39,Finance Business Partner,Finance,Senior,25000-60000,25000.0,60000.0
+40,Sr. Financial Analyst,Finance,Senior,25000-60000,25000.0,60000.0
+41,Finance Team Lead,Finance,Lead,60000-100000,60000.0,100000.0
+42,Finance Manager,Finance,Lead,60000-100000,60000.0,100000.0
+43,Finance Director,Finance,Director,100000-250000,100000.0,250000.0
+44,Head of Finance,Finance,Director,100000-250000,100000.0,250000.0
+45,Marketing Coordinator,Marketing,Junior,8000-15000,8000.0,15000.0
+46,Jr. Content Specialist,Marketing,Junior,8000-15000,8000.0,15000.0
+47,Marketing Specialist,Marketing,Mid,15000-25000,15000.0,25000.0
+48,Growth Associate,Marketing,Mid,15000-25000,15000.0,25000.0
+49,Senior Brand Manager,Marketing,Senior,25000-60000,25000.0,60000.0
+50,Senior Growth Analyst,Marketing,Senior,25000-60000,25000.0,60000.0
+51,Sr. Marketing Consultant,Marketing,Senior,25000-60000,25000.0,60000.0
+52,Marketing Team Lead,Marketing,Lead,60000-100000,60000.0,100000.0
+53,Marketing Manager,Marketing,Lead,60000-100000,60000.0,100000.0
+54,Marketing Director,Marketing,Director,100000-250000,100000.0,250000.0
+55,Head of Marketing,Marketing,Director,100000-250000,100000.0,250000.0
+56,Operations Coordinator,Operations,Junior,8000-15000,8000.0,15000.0
+57,Jr. Operations Analyst,Operations,Junior,8000-15000,8000.0,15000.0
+58,Operations Specialist,Operations,Mid,15000-25000,15000.0,25000.0
+59,Process Analyst,Operations,Mid,15000-25000,15000.0,25000.0
+60,Senior Operations Analyst,Operations,Senior,25000-60000,25000.0,60000.0
+61,Process Improvement Specialist,Operations,Senior,25000-60000,25000.0,60000.0
+62,Sr. Operations Consultant,Operations,Senior,25000-60000,25000.0,60000.0
+63,Operations Lead,Operations,Lead,60000-100000,60000.0,100000.0
+64,Operations Manager,Operations,Lead,60000-100000,60000.0,100000.0
+65,Director of Operations,Operations,Director,100000-250000,100000.0,250000.0
+66,Head of Operations,Operations,Director,100000-250000,100000.0,250000.0
+67,Legal Assistant,Legal,Junior,8000-15000,8000.0,15000.0
+68,Jr. Legal Analyst,Legal,Junior,8000-15000,8000.0,15000.0
+69,Legal Specialist,Legal,Mid,15000-25000,15000.0,25000.0
+70,Compliance Associate,Legal,Mid,15000-25000,15000.0,25000.0
+71,Senior Legal Counsel,Legal,Senior,25000-60000,25000.0,60000.0
+72,Senior Compliance Officer,Legal,Senior,25000-60000,25000.0,60000.0
+73,Sr. Legal Consultant,Legal,Senior,25000-60000,25000.0,60000.0
+74,Legal Team Lead,Legal,Lead,60000-100000,60000.0,100000.0
+75,Compliance Manager,Legal,Lead,60000-100000,60000.0,100000.0
+76,Legal Director,Legal,Director,100000-250000,100000.0,250000.0
+77,General Counsel,Legal,Director,100000-250000,100000.0,250000.0
